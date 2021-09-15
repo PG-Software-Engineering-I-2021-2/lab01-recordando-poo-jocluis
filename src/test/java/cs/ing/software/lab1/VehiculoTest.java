@@ -54,6 +54,8 @@ public class VehiculoTest {
         Assert.assertEquals(camion.reabastecer(10), "Camión no se puede reabastecer el tanque, está lleno.");
     }
 
+
+
     @Test(invocationCount = 80, threadPoolSize = 80)
     public void PruebaEstres() {
         Camion camion = new Camion(0.9,100,100);

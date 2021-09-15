@@ -4,7 +4,7 @@ import java.util.logging.Logger;
 
 <span class="nc" id="L5">public class Main {</span>
 
-<span class="nc" id="L7">    static final Logger logger = Logger.getLogger(Main.class.getName());</span>
+<span class="fc" id="L7">    static final Logger logger = Logger.getLogger(Main.class.getName());</span>
 
     public static void main(String[] args)
     {
@@ -19,7 +19,13 @@ import java.util.logging.Logger;
 <span class="nc" id="L19">        Camion carro3 = new Camion(1.6,100,10);</span>
 <span class="nc" id="L20">        sCarro = carro3.viajar(4);</span>
 <span class="nc" id="L21">        logger.info(sCarro);</span>
-<span class="nc" id="L22">    }</span>
+<span class="nc" id="L22">        System.out.println(prueba(&quot;Probar&quot;));</span>
+
+<span class="nc" id="L24">    }</span>
+    public static String prueba(String name) throws IllegalArgumentException{
+<span class="pc bpc" id="L26" title="1 of 2 branches missed.">        if(name.trim().isEmpty())  throw new IllegalArgumentException(&quot;No se puede enviar un valor vacío&quot;);</span>
+<span class="fc" id="L27">        return &quot;Prueba satisfactoria!&quot;;</span>
+    }
 
 
 }
