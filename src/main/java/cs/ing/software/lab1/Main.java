@@ -8,17 +8,17 @@ public class Main {
 
     public static void main(String[] args)
     {
-        Automovil subaru = new Automovil(0.9,100,10);
-        String nissanDrive = subaru.viajar(4);
-        logger.info(nissanDrive);
+        Automovil carro1 = new Automovil(0.9,100,10);
+        String sCarro = carro1.viajar(4);
+        logger.info(sCarro);
 
-        Automovil toyota = new Automovil(0.9,100,10);
-        String toyotaDrive = toyota.viajar(12);
-        logger.info(toyotaDrive);
+        Automovil carro2 = new Automovil(0.9,100,10);
+        sCarro = carro2.viajar(12);
+        logger.info(sCarro);
 
-        Camion komatzu = new Camion(1.6,100,10);
-        String komatzuDrive = komatzu.viajar(4);
-        logger.info(komatzuDrive);
+        Camion carro3 = new Camion(1.6,100,10);
+        sCarro = carro3.viajar(4);
+        logger.info(sCarro);
     }
 
 
