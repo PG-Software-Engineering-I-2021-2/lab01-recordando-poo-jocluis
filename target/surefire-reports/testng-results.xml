@@ -1,0 +1,365 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="88" passed="88" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-09-14T22:27:31 COT" name="cs.ing.software.lab1.VehiculoTest" finished-at="2021-09-14T22:27:31 COT" duration-ms="327">
+    <groups>
+    </groups>
+    <test started-at="2021-09-14T22:27:31 COT" name="Command line test" finished-at="2021-09-14T22:27:31 COT" duration-ms="327">
+      <class name="cs.ing.software.lab1.VehiculoTest">
+        <test-method signature="ReabastecerAutoConTanqueLleno()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="ReabastecerAutoConTanqueLleno" finished-at="2021-09-14T22:27:31 COT" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReabastecerAutoConTanqueLleno -->
+        <test-method signature="ReabastecerAutoConTanqueVacio()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="ReabastecerAutoConTanqueVacio" finished-at="2021-09-14T22:27:31 COT" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReabastecerAutoConTanqueVacio -->
+        <test-method signature="ReabastecerCamionConTanqueLleno()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="ReabastecerCamionConTanqueLleno" finished-at="2021-09-14T22:27:31 COT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReabastecerCamionConTanqueLleno -->
+        <test-method signature="ReabastecerCamionConTanqueVacio()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="ReabastecerCamionConTanqueVacio" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReabastecerCamionConTanqueVacio -->
+        <test-method signature="ReabastecerCamionPorSegundaVez()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="ReabastecerCamionPorSegundaVez" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ReabastecerCamionPorSegundaVez -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="TestDeStress()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="TestDeStress" finished-at="2021-09-14T22:27:31 COT" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestDeStress -->
+        <test-method signature="Viajar40kmEnAuto()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="Viajar40kmEnAuto" finished-at="2021-09-14T22:27:31 COT" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viajar40kmEnAuto -->
+        <test-method signature="Viajar4kmEnAuto()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="Viajar4kmEnAuto" finished-at="2021-09-14T22:27:31 COT" duration-ms="18" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viajar4kmEnAuto -->
+        <test-method signature="Viajar4kmEnCamion()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-14T22:27:31 COT" name="Viajar4kmEnCamion" finished-at="2021-09-14T22:27:31 COT" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Viajar4kmEnCamion -->
+      </class> <!-- cs.ing.software.lab1.VehiculoTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- cs.ing.software.lab1.VehiculoTest -->
+</testng-results>

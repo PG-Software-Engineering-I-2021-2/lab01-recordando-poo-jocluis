@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>lab01-recordando-poo-allen-MSc</artifactId>
+    <artifactId>lab01-recordando-poo-jocluis</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -20,7 +20,7 @@
     <properties>
         <maven.compiler.source>15</maven.compiler.source>
         <maven.compiler.target>15</maven.compiler.target>
-        <sonar.projectKey>PG-Software-Engineering-I-2021-2_lab01-recordando-poo-allen-MSc</sonar.projectKey>
+        <sonar.projectKey>PG-Software-Engineering-I-2021-2_lab01-recordando-poo-jocluis</sonar.projectKey>
         <sonar.organization>pg-software-engineering-i-2021-2</sonar.organization>
         <sonar.host.url>https://sonarcloud.io</sonar.host.url>
     </properties>
