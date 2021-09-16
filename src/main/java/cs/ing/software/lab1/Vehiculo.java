@@ -29,7 +29,7 @@ public class Vehiculo {
         double disponible = capacidad - cantidad;
 
         if (combustible > disponible) {
-            return "Automóvil/Camión no se puede reabastecer el tanque, esta lleno.";
+            return "Automóvil/Camión no se puede reabastecer el tanque, está lleno.";
         }
 
         cantidad = cantidad + combustible;

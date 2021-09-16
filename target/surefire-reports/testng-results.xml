@@ -2,360 +2,360 @@
 <testng-results ignored="0" total="88" passed="88" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-09-15T14:52:57 COT" name="cs.ing.software.lab1.VehiculoTest" finished-at="2021-09-15T14:52:57 COT" duration-ms="415">
+  <suite started-at="2021-09-15T21:21:18 COT" name="cs.ing.software.lab1.VehiculoTest" finished-at="2021-09-15T21:21:18 COT" duration-ms="338">
     <groups>
     </groups>
-    <test started-at="2021-09-15T14:52:57 COT" name="Command line test" finished-at="2021-09-15T14:52:57 COT" duration-ms="415">
+    <test started-at="2021-09-15T21:21:18 COT" name="Command line test" finished-at="2021-09-15T21:21:18 COT" duration-ms="338">
       <class name="cs.ing.software.lab1.VehiculoTest">
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="59" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="58" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="57" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="56" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="55" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="54" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="53" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="52" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="51" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="51" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="70" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="71" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="62" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="63" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="62" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="51" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="59" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="60" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="59" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="60" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="58" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="48" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="58" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="59" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="58" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="59" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="58" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="57" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="58" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="57" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="57" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="56" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="56" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="49" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="PruebaEstres" finished-at="2021-09-15T14:52:57 COT" duration-ms="56" status="PASS">
+        <test-method signature="PruebaEstres()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="PruebaEstres" finished-at="2021-09-15T21:21:18 COT" duration-ms="50" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- PruebaEstres -->
-        <test-method signature="ReaAutoConTanqueLleno()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ReaAutoConTanqueLleno" finished-at="2021-09-15T14:52:57 COT" duration-ms="4" status="PASS">
+        <test-method signature="ReaAutoConTanqueLleno()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ReaAutoConTanqueLleno" finished-at="2021-09-15T21:21:18 COT" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReaAutoConTanqueLleno -->
-        <test-method signature="ReaAutoTanqueVacio()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ReaAutoTanqueVacio" finished-at="2021-09-15T14:52:57 COT" duration-ms="9" status="PASS">
+        <test-method signature="ReaAutoTanqueVacio()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ReaAutoTanqueVacio" finished-at="2021-09-15T21:21:18 COT" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReaAutoTanqueVacio -->
-        <test-method signature="ReabCamionConTanqueLleno()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ReabCamionConTanqueLleno" finished-at="2021-09-15T14:52:57 COT" duration-ms="0" status="PASS">
+        <test-method signature="ReabCamionConTanqueLleno()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ReabCamionConTanqueLleno" finished-at="2021-09-15T21:21:18 COT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReabCamionConTanqueLleno -->
-        <test-method signature="ReabCamionConTanqueVacio()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ReabCamionConTanqueVacio" finished-at="2021-09-15T14:52:57 COT" duration-ms="3" status="PASS">
+        <test-method signature="ReabCamionConTanqueVacio()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ReabCamionConTanqueVacio" finished-at="2021-09-15T21:21:18 COT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReabCamionConTanqueVacio -->
-        <test-method signature="ReabCamionPorVez2()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ReabCamionPorVez2" finished-at="2021-09-15T14:52:57 COT" duration-ms="2" status="PASS">
+        <test-method signature="ReabCamionPorVez2()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ReabCamionPorVez2" finished-at="2021-09-15T21:21:18 COT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ReabCamionPorVez2 -->
-        <test-method signature="ViajarAuto4()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ViajarAuto4" finished-at="2021-09-15T14:52:57 COT" duration-ms="35" status="PASS">
+        <test-method signature="ViajarAuto4()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ViajarAuto4" finished-at="2021-09-15T21:21:18 COT" duration-ms="23" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViajarAuto4 -->
-        <test-method signature="ViajarAuto40()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ViajarAuto40" finished-at="2021-09-15T14:52:57 COT" duration-ms="0" status="PASS">
+        <test-method signature="ViajarAuto40()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ViajarAuto40" finished-at="2021-09-15T21:21:18 COT" duration-ms="0" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViajarAuto40 -->
-        <test-method signature="ViajarCamion4()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T14:52:57 COT" name="ViajarCamion4" finished-at="2021-09-15T14:52:57 COT" duration-ms="1" status="PASS">
+        <test-method signature="ViajarCamion4()[pri:0, instance:cs.ing.software.lab1.VehiculoTest@c667f46]" started-at="2021-09-15T21:21:18 COT" name="ViajarCamion4" finished-at="2021-09-15T21:21:18 COT" duration-ms="1" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- ViajarCamion4 -->
